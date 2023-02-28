@@ -6,10 +6,10 @@ ligand=lig.pdb
 autobox_ligand=lig.pdb
 num_modes=1
 
-# Run molecular docking and save output to hasil_simulasi.txt
+# Run molecular docking and save output to results.txt
 for i in {1..10}
 do
-    gnina -r $receptor -l $ligand --autobox_ligand $autobox_ligand -o output_${i}.pdb --num_modes $num_modes >> hasil_simulasi.txt
+    gnina -r $receptor -l $ligand --autobox_ligand $autobox_ligand -o output_${i}.pdb --num_modes $num_modes >> results.txt
 done
 
 # Define the reference structure
