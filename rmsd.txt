@@ -1,0 +1,12 @@
+Mean RMSD: .474
+RMSD of output_1.pdb compared to lig.pdb: 0.477735
+RMSD of output_2.pdb compared to lig.pdb: 0.47366
+RMSD of output_3.pdb compared to lig.pdb: 0.471414
+RMSD of output_4.pdb compared to lig.pdb: 0.477655
+RMSD of output_5.pdb compared to lig.pdb: 0.475647
+RMSD of output_6.pdb compared to lig.pdb: 0.475312
+RMSD of output_7.pdb compared to lig.pdb: 0.477836
+RMSD of output_8.pdb compared to lig.pdb: 0.473278
+RMSD of output_9.pdb compared to lig.pdb: 0.472895
+RMSD of output_10.pdb compared to lig.pdb: 0.473087
+Mean RMSD: .474
